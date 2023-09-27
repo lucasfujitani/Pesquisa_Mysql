@@ -29,7 +29,6 @@ buscarUsuarios();
             }
 c.close();
 
-
         }catch (SQLException  e){
             e.printStackTrace();
         }
